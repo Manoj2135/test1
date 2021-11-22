@@ -1,0 +1,23 @@
+GIT-VERSION CONTROL SYSTEM, git, bitbucket, aws codecomit, svn
+
+DISTRIBUTED--- git
+ AND CENTRALIZED-- svn
+
+9 TO 6PM
+
+REPO -FILE
+REPOSITORY- FOLDER
+
+GIT -- CLINT
+
+GITHUB-- SERVER
+
+mkdir- to create folder
+cd - change directory
+touch -- to create the new file
+ls - to list the files
+ls -l-- long list
+ls -la -- list all files
+vi - to edit the files
+esc:wq!
+cat-- to view the file content
